@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [code](https://your-solution-url.com)
-- Live Site URL: [live](https://your-live-site-url.com)
+- Solution URL: [code](https://github.com/Nyaou/advice-generator-app/)
+- Live Site URL: [live]((https://nyaou.github.io/advice-generator-app/))
 
 ## My process
 
