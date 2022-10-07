@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  
+
+
+  <title>Frontend Mentor | Advice generator app</title>
+
+  <link rel="stylesheet" href="estilo.css">
+  <script src="advice-generator.js"></script>
+</head>
+<body onload="new Eventos()">
+
+  <main class="card">
+
+    <span class="titulo" id="idAdvice">Advice #000</span>
+
+    <p class="texto" id="textAdvice">"Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+
+    <div class="separador">
+
+      <picture>
+        <source media="(max-width: 700px)" srcset="images/pattern-divider-mobile.svg">
+        <source media="(min-width: 701px)" srcset="images/pattern-divider-desktop.svg">
+        <img src="images/pattern-divider-mobile.svg" alt="separador">
+      </picture>
+    </div>
+
+    <div class="dice-button" id="dice">
+      <img class="image" src="images/icon-dice.svg">
+    </div>
+    
+
+  </main>
+
+  
+  <footer class="rodape">
+    Challenge by <a class="link" href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+    Coded by <a class="link"  href="https://github.com/Nyaou">Nyaou</a>.
+  </footer>
+</body>
+</html>
