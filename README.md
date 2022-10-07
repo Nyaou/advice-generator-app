@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [code](https://github.com/Nyaou/advice-generator-app/)
-- Live Site URL: [live]((https://nyaou.github.io/advice-generator-app/))
+- Live Site URL: [live](https://nyaou.github.io/advice-generator-app/)
 
 ## My process
 
